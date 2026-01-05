@@ -14,6 +14,8 @@ Hi, im an IT student from Norway studying at Kuben Vgs. I love any and all IT, b
 
 ## current projects
 Currently, I am working on expanding my graphics knowledge from OpenGL to DirectX 11, SDL, and NVRHI.
-I have made a simple amateur Minecraft clone and am now working on creating a more universal rendering pipeline for more general use.
+I have made a simple amateur Minecraft clone and am now working on creating a more universal rendering pipeline for more general use. 
 
 Other than that, I am trying to learn more C++. I have not been learning it for very long, so there are many areas where I lack experience. Additionally, I have not had the chance to work with any companies using a C++ codebase, so I do not have much of an idea of what a “professional structure” looks like.
+
+### Take a look at my pined projects for a better look at what i do.
