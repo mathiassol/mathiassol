@@ -1,5 +1,6 @@
 ## Mathias Solheim
-![Profile views](https://komarev.com/ghpvc/?username=Mathiassol)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Mathiassol)
 
 
 <!--
