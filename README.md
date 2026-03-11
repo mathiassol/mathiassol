@@ -26,7 +26,7 @@ Learning
 </h2>
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,go,dotnet,cs&titles=true" alt="go"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,rust,go,dotnet,cs&titles=true" alt="go"/>
 </p>
 
 ---
