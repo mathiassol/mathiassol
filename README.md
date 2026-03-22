@@ -25,7 +25,6 @@ Skills
 Learning
 </h2>
 <p align="center">
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=c,rust,go,dotnet,cs&titles=true" alt="go"/>
 </p>
 
@@ -41,22 +40,28 @@ Current Project
 <tr>
 <td width="100%" align="center">
 
-<h2>🦀 Rust Reverse Proxy</h2>
+<h2>Developer Ecosystem</h2>
 
 <p>
-A reverse proxy written in <b>Rust</b><br>
-Trying to learn <b>caching, load balancing, and proxies</b>.
+A developer ecosystem built with <b>Rust</b>, <b>.NET</b>, and <b>CEF</b><br>
+Focused on creating a <b>unified, customizable developer hub</b>.
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/language-Rust-orange?style=for-the-badge&logo=rust">
-<img src="https://img.shields.io/badge/focus-networking-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/stack-Rust%20%7C%20.NET%20%7C%20CEF-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/focus-developer%20tools-green?style=for-the-badge">
 </p>
 
 <p>
 <b>Tech stack</b><br>
-🦀 Rust · Go · HTTP · Load Balancing · Caching<br>
+🦀 Rust · .NET · CEF · Web UI · Automation · Toolchains<br>
+</p>
+
+<p>
+<a href="https://github.com/mathiassol/r2eco" target="_blank">
+  🔗 View Repository
+</a>
 </p>
 
 </td>
