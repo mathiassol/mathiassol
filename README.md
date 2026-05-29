@@ -40,26 +40,22 @@ Current Project
 <tr>
 <td width="100%" align="center">
 
-<h2>Developer Ecosystem</h2>
+<h2>Renderer and GameEngine</h2>
 
 <p>
-A developer ecosystem built with <b>Rust</b>, <b>.NET</b>, and <b>CEF</b><br>
-Focused on creating a <b>unified, customizable developer hub</b>.
+A game engine build with <b>vulkan</b> and <b>c++</b><br>
+Focused on creating a <b>strong renderer, PBR, SS Effects, volumetrics...</b>.
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/stack-Rust%20%7C%20.NET%20%7C%20CEF-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/focus-developer%20tools-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/stack-Vulkan%20%7C%20C++%20-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/focus-Learning%20tool-green?style=for-the-badge">
 </p>
 
 <p>
-<b>Tech stack</b><br>
-🦀 Rust · .NET · CEF · Web UI · Automation · Toolchains<br>
-</p>
-
 <p>
-<a href="https://github.com/mathiassol/r2eco" target="_blank">
+<a href="https://github.com/mathiassol/solengine" target="_blank">
   🔗 View Repository
 </a>
 </p>
