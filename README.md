@@ -7,7 +7,10 @@
 </h1>
 
 <h4 align="center">
-  I'm an IT student from Norway, currently studying VG2 at Kuben VGS
+  🇳🇴 IT Developer from Norway · Apprentice at
+  <a href="https://www.visma.com/" style="color:#0070f3; text-decoration:none;">
+    Visma Enterprise
+  </a>
 </h4>
 
 ---
